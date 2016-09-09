@@ -15,7 +15,7 @@
   (pad 1 thru_hole circle (at -2.286 0) (size 2.032 2.032) (drill 0.508) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0 0) (size 2.032 2.032) (drill 0.508) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole rect (at 2.286 0) (size 2.032 2.032) (drill 0.508) (layers *.Cu *.Mask F.SilkS))
-  (model TO_SOT_Packages_SMD.3dshapes/TO-251AA.wrl
+  (model TO_SOT_Packages_THT.3dshapes/TO-251AA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
